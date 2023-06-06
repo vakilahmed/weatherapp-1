@@ -109,7 +109,7 @@ col img{
     text-align: left;
     display: flex;
 }
-weather{
+.weather{
     display: none;
 } 
 .err{
