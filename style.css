@@ -108,10 +108,10 @@ col img{
     margin-right: 10px;
     text-align: left;
     display: flex;
-/*}
-.weather{
+}
+weather{
     display: none;
-}*/ 
+} 
 .err{
     text-align: left;
     font-size: 14px;
